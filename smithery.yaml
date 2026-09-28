@@ -1,0 +1,6 @@
+name: genpark-quantum-statevector-circuit-simulator-skill
+version: 1.0.0
+description: Full n-qubit complex statevector simulator supporting Hadamard, CNOT, Phase, and Pauli gates with unitary evolution
+command: python
+args:
+  - mcp_server.py
