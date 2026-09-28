@@ -1,0 +1,20 @@
+{
+  "name": "genpark-quantum-statevector-circuit-simulator-skill",
+  "version": "1.0.0",
+  "description": "Full n-qubit complex statevector simulator supporting Hadamard, CNOT, Phase, and Pauli gates with unitary evolution",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "quantum-computing",
+    "statevector-simulator",
+    "quantum-circuits",
+    "cnot-gate",
+    "hadamard-transform",
+    "python-standard-library",
+    "agent-skills",
+    "quantum-information",
+    "unitary-matrices",
+    "qubits"
+  ]
+}
